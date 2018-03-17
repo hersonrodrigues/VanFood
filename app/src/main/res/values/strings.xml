@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VanFood</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">E-mail</string>
+    <string name="login_title">Login</string>
+    <string name="address_hint">Address</string>
+    <string name="signin_title">Sign In</string>
+    <string name="submit">Submit</string>
+    <string name="field_empry_error">Please fill this field</string>
+    <string name="field_email_error">Your email has wrong</string>
+    <string name="sending_data_message">Sending...</string>
+    <string name="api_error">Service error: %1$s</string>
+    <string name="sigin_link">Do you have a profile? Sign in here</string>
+    <string name="name_hint">Name</string>
+    <string name="logged">You are logged</string>
+    <string name="welcome">Welcome</string>
+    <string name="user_created">User has created</string>
+    <string name="dollar">$ %1$s</string>
+    <string name="cart">Cart</string>
+    <string name="choose_store">Choose store</string>
+    <string name="products_by">Products by %1$s</string>
+    <string name="products">Products</string>
+    <string name="buy">Buy</string>
+</resources>

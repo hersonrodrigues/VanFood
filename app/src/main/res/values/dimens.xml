@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="badge_text_size">20dp</dimen>
+    <dimen name="icon_menu_action">38dp</dimen>
+    <dimen name="icone_menu_right_padding">8dp</dimen>
+</resources>
